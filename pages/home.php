@@ -30,7 +30,7 @@
 </div>
 
 <div class="card" style="width: 15rem;">
-  <img class="card-img-top" src="./imagens/png-transparent-chocolate-cupcake-cupcake-icing-chocolate-cake-muffin-strawberry-cake-cream-food-baking-thumbnail.png" alt="Card image cap">
+  <img class="card-img-top" src="./imagens/<?php echo $produtos["cupcake"]["img"] ?>" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Cupcake</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
