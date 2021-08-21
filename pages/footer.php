@@ -1,6 +1,6 @@
 <footer>
   <div>
-    <img src="imagens/logo-doceria.jpg" alt="log-fabrica-de-doces">
+    <img src="imagens/logo-doceria.jpg"  alt="log-fabrica-de-doces">
   </div>
   <div>
   <p class="info">Desenvolvido por Iris Leite Vieira Junior <br/> RA:19147977-5 <br> Curso: Sistemas para Internet</p>
