@@ -23,6 +23,7 @@
       padding-top: .5rem;
       text-align: center;
       color: #8B4513;
+      margin-bottom: 2rem;
     }
     a{
       font-size: 20px;
@@ -70,8 +71,37 @@
 #row {
   margin-top: 5rem;
 }
-.contatos {
+.container-contatos{
+  background-image: url(imagens/f-contato.jpg);
+  background-size: cover;
+}
+.container-contatos h2{
+  color: whitesmoke;
+}
+.cont{
+  background-color: rgba(123, 123, 123, 0.0);
+  color: whitesmoke;
   display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-bottom: 4rem;
+}
+.cont p{
+  width: 80%;
+}
+.contatos {
+  margin-right: 2rem;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-color: rgba(123, 123, 123, 0.0);
+}
+input,textarea{
+  border-radius: 5px;
+  border: none;
 }
 #map-container-google-1{
   display: flex;
@@ -102,6 +132,7 @@ footer img{
   margin-top: .5rem;
 }
 .main{
+  
   display: flex;
   justify-content: space-evenly;
   align-items: center;
