@@ -18,6 +18,7 @@
 
 <label for="">Deixe sua mensagem:</label>
 <textarea name="" id="" cols="30" rows="8"></textarea>
+<button type="submit">Enviar</button>
 </div>
 </div>
 </div>

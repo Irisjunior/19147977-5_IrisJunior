@@ -167,6 +167,16 @@ aside{
   padding: 1rem;
   width: 350px;
 }
+button{
+  padding: .5rem;
+  margin-top: .5rem;
+  border: none;
+  border-radius: 10px;
+  color:#8B4513;
+  background-color: pink;
+}
+button:hover{background-color:#8B5550}
+
 </style>
   
 <nav class="navbar navbar-expand-lg navbar-light bg-light">

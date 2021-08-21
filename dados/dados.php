@@ -22,7 +22,7 @@ $produtos = [
   'cupcake'=>[
     'descricao'=>"cupcakesssssssssssss,ssssss",
     'preco'=> 7.99,
-    'img'=>'cupcake.png'
+    'img'=>"cup.png"
   ], 
   'churros'=>[
     'descricao'=>"churrossssss",
